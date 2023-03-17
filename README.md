@@ -9,6 +9,6 @@
  
 🔭 I’m currently working on learning React.
 <div aling="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="400" height="400" / >
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="400" / >
 </div>
 
