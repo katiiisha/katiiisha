@@ -8,7 +8,7 @@
 </ul>
  
 🔭 I’m currently working on learning React.
-<div aling="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="400" / >
+<div align="right">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300" / >
 </div>
 
