@@ -9,6 +9,6 @@
  
 🔭 I’m currently working on learning React.
 <div aling="center">
-  <img src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT](https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT" width="400" height="400" / >
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="400" height="400" / >
 </div>
 
