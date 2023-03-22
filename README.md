@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300" / >
 </div>
-<h3> <u>A few facts about me: </u></h3>
+<h3> A few facts about me: </h3>
 
   <ul>
     <li>I like to write code :writing_hand:</li>
