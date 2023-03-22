@@ -13,4 +13,14 @@
 
 🔭 I’m currently working on learning React.
 
-
+<div>
+<a href="https://t.me/katiiiiisha">
+<img src="https://img.shields.io/badge/Telegram-003f5c?style=for-the-badge&logo=Telegram">
+</a>
+<a href="https://vk.com/mynameiskittykat">
+<img src="https://img.shields.io/badge/Вконтакте-5181b8?style=for-the-badge&logo=Vk">
+</a>
+<a>
+<https://img.shields.io/badge/Instagram-FFF0F5?style=for-the-badge&logo=instagram">
+</a>
+</div>
