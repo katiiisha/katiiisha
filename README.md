@@ -7,13 +7,13 @@
 
 <div align="center">
 <a href="https://t.me/katiiiiisha">
-<img src="https://img.shields.io/badge/Telegram-ABCDEF?style=for-the-badge&logo=Telegram">
+<img src="https://img.shields.io/badge/Telegram-ABCDEF?style=for-the-badge&logo=Telegram" title="Telegram" alt="Telegram">
 </a>
 <a href="https://vk.com/mynameiskittykat">
-<img src="https://img.shields.io/badge/Вконтакте-5181b8?style=for-the-badge&logo=Vk">
+<img src="https://img.shields.io/badge/Вконтакте-5181b8?style=for-the-badge&logo=Vk" title="Вконтакте" alt="Вконтакте">
 </a>
 <a href="https://instagram.com/tablitsa.mendeleeva?igshid=YmMyMTA2M2Y=">
-<img src="https://img.shields.io/badge/Instagram-FFF0F5?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/Instagram-FFF0F5?style=for-the-badge&logo=instagram" title="Instagram" alt="Instagram">
  </a>
 </div>
 
@@ -22,25 +22,39 @@
   <ul>
     <li>I like to code :writing_hand:</li>
     <li>Dancer:woman_dancing:</li>
-    <li> Buke rider :biking_woman:</li>
+    <li> Bike rider :biking_woman:</li>
   </ul>
 
 🔭 I’m currently working on learning React.
 <hr>
 
 ### :hammer_and_wrench: My tech stack  :
-<div>
+<div align="center">
+  <table>
+    <tr>
+        <td> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40" />
+</td>
+      <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
+</td>
+    </tr>
+  </table>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiiisha&theme=neon&hide_border=)](https://git.io/streak-stats)
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
 </div>
 
