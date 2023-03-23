@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Instagram-FFF0F5?style=for-the-badge&logo=instagram" title="Instagram" alt="Instagram">
  </a>
 </div>
-
+<hr>
 <h3> A few facts about me: </h3>
 
   <ul>
@@ -54,7 +54,23 @@
 </td>
     </tr>
   </table>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiiisha&theme=neon&hide_border=)](https://git.io/streak-stats)
+
+</div>
+<hr>
+
+### :fire: My Stats :
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katiiisha&theme=panda)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=katiiisha&theme=panda)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katiiisha&theme=panda)
   
 </div>
+<hr>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katiiisha&theme=panda&hide_border=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
+
+
+
 
